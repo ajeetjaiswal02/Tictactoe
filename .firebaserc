@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "wired-armor-274407": {
+      "hosting": {
+        "Tictac": [
+          "wired-armor-274407"
+        ]
+      }
+    }
+  }
+}
